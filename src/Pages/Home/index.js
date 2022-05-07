@@ -11,12 +11,12 @@ function App() {
       <div className="Position">
         Software Developer
       </div>
-      <div className="ScrollInstruction">
+      {/*<div className="ScrollInstruction">
         <ArrowDownCircle color={'#ffffff'} width="40px" height="40px"/>
         <div className="text">
           Scroll to reveal menu
         </div>
-      </div>
+      </div>*/}
     </div>
   );
 }
