@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+
+:root{
+	--background-color:  #001B23;
+	--font-color:  #ffffff;
+	--subtitle-color:  rgba(255,255,255,0.7);
+}
+
+body{
+	background-color: var(--background-color);
+	font-family: 'Raleway', sans-serif;
+	color: var(--font-color);
+	margin: 80px 120px 80px 120px;
+}
+
+.App {
+	width: 100%;
+	height: calc(100vh - 160px);
+}
